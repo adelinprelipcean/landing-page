@@ -256,4 +256,9 @@ footer {
         display: flex;
         flex-direction: column;
     }
+    .about h2 {
+        display: flex;
+        text-align: center;
+        width: 80vw;
+    }
 }
